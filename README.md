@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManoFr4nklin
 - 👀 I’m interested in learn and work with programs
-- 🌱 I’m currently learning Front-end and Java
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
